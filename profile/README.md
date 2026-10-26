@@ -5,9 +5,9 @@ We are part of Yale Department of Biomedical Informatics and Data Science (BIDS)
 
 ### Links
 
-[lozalab.org](lozalab.org) — lab website
+[lozalab.org](lozalab.org)
 
-[Andrew Loza, MD, PhD](https://medicine.yale.edu/profile/andrew-loza/) — PI
+[Andrew Loza, MD, PhD](https://medicine.yale.edu/profile/andrew-loza/)
 
 ### GitHub
 
